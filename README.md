@@ -167,7 +167,7 @@ end
 ## Caveats
 
 1. This will only work on associations that are dependent destroy. It
-should be trival to change that or make it optional.
+should be trivial to change that or make it optional.
 1. If you would like to work on this, you will need to setup sqlite on your development machine. Alternately, you can disable specific dev dependencies in the gemspec and test_helper and ask for help.
 
 ## Testing
